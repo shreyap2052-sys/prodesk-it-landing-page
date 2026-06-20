@@ -44,8 +44,10 @@ prodesk-it-landing-page/
 
     └── screenshot.png
 
+## assests
 ## Screenshot
 
+![Project Screenshot](assets\prodesk-it-landing-page.netlify.app_.png)
 
 ## Live Demo
 
