@@ -46,17 +46,14 @@ prodesk-it-landing-page/
 
 ## Screenshot
 
-Add a screenshot of the deployed landing page inside the assets folder and reference it here.
-
-![Project Screenshot](assets/screenshot.png)
 
 ## Live Demo
 
-Add your Netlify deployment URL here.
+https://prodesk-it-landing-page.netlify.app/
 
 ## GitHub Repository
 
-Add your GitHub repository URL here.
+github.com/shreyap2052-sys/prodesk-it-landing-page
 
 ## Learning Outcomes
 
